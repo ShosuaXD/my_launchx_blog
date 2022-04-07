@@ -9,13 +9,13 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Mi nombre completo es: Josue Santillan Garcia
+> Tengo 24 años
+> Estudio Ingenieria en Computacion en la Facultad de Ingenieria, Universidad Nacional Autonoma de México.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Sobre mi** Estos son algunos datos que me define como persona y profesional:
+Me encanta todo lo relacionado con videojuegos, tanto que deseo desenvolverme como desarrollador de videojuegos.
+Tambien me gustaria convertirme en investigador en el area de computacion.
+De musica me gusta de todo, no tengo tendencia a un solo genero.
+Es muy raro en mi que me clave en alguna serie.
 
